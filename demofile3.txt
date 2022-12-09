@@ -1,0 +1,14 @@
+first technique of tactic privilege-escalation LC_LOAD_DYLIB Addition T1546.006
+first technique of tactic command-and-control Socket Filters T1205.002
+first technique of tactic execution LSASS Driver T1177
+first technique of tactic credential-access Forced Authentication T1187
+first technique of tactic discovery Software Discovery T1518
+first technique of tactic reconnaissance Network Trust Dependencies T1590.003
+first technique of tactic lateral-movement Application Access Token T1527
+first technique of tactic collection Archive via Utility T1560.001
+first technique of tactic persistence Device Registration T1098.005
+first technique of tactic initial-access External Remote Services T1133
+first technique of tactic resource-development Acquire Infrastructure T1583
+first technique of tactic defense-evasion Path Interception by PATH Environment Variable T1574.007
+first technique of tactic impact Data Encrypted for Impact T1486
+first technique of tactic exfiltration Exfiltration Over Web Service T1567
